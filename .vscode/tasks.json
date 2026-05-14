@@ -1,0 +1,11 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Começar Nvl Aventureiro",
+            "type": "shell",
+            "command": "npm",
+            "inAgents": true
+        }
+    ]
+}
