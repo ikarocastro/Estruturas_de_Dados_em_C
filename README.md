@@ -92,7 +92,7 @@ Estrutura hierárquica onde cada nó tem no máximo dois filhos, com a proprieda
 
 ## 👨‍💻 Autor
 
-Feito com 💙 durante a disciplina de Estruturas de Dados.
+ikarocastro Feito com 💙 durante a disciplina de Estruturas de Dados.
 
 ---
 
