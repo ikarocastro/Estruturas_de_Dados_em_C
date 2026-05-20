@@ -92,10 +92,10 @@ Estrutura hierárquica onde cada nó tem no máximo dois filhos, com a proprieda
 
 ## 👨‍💻 Autor
 
-ikarocastro Feito com 💙 durante a disciplina de Estruturas de Dados.
+Ikarocastro feito com 💙 durante a disciplina de Estruturas de Dados.
 
 ---
 
 ## 📝 Licença
 
-Este repositório é de uso educacional.
+Este repositório é de uso educacional. Para documentar minha jornada como estudante de Software Engineering.
